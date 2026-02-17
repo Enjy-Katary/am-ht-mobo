@@ -1,0 +1,29 @@
+# conda environment for am-ht-mobo
+name: am-ht-mobo
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - polars
+  - pytorch
+  - cpuonly
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ipython
+  - jupyter
+  - notebook
+  - pip
+  - pip:
+      - botorch
+      - gpytorch
+      - linear-operator
+      - pyro-ppl
+      - jaxtyping
+      - tqdm

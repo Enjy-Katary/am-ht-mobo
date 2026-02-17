@@ -1,0 +1,27 @@
+# requirements for pip users
+# Working with Python 3.10+
+
+# Core
+numpy>=2.0.1,<3.0.0
+scipy>=1.15.0,<2.0.0
+pandas>=2.2.0,<3.0.0
+polars>=1.30.0,<2.0.0
+
+# ML and optimization
+torch>=2.7.0,<3.0.0
+botorch>=0.14.0,<1.0.0
+gpytorch>=1.14,<2.0.0
+linear-operator>=0.6,<1.0.0
+scikit-learn>=1.6.0,<2.0.0
+pyro-ppl>=1.9.0,<2.0.0
+jaxtyping>=0.3.0,<1.0.0
+
+# Visualization
+matplotlib>=3.10.0,<4.0.0
+seaborn>=0.12.0,<1.0.0
+tqdm>=4.67.0,<5.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0,<2.0.0
+ipython>=8.0.0,<9.0.0
+notebook>=6.5.0,<8.0.0
