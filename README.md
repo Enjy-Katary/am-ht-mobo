@@ -9,7 +9,6 @@
 - [Getting Started](#getting-started)
 - [Expected Outputs](#expected-outputs)
 - [Project Structure](#project-structure)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
 - [Citation](#citation)
@@ -181,18 +180,14 @@ If you use this project in your research, please cite the following paper:
 
 ```bibtex
 @article{am-ht-mobo_2026,
-    author = {},
-    title = {},
-    journal = {},
-    volume = {},
-    number = {},
-    pages = {},
-    year = {2026},
-    publisher = {},
-    doi = {},
-    URL = {},
-    eprint = {}
+author = {E. Katary, K. Sekuła, D. Krok, M. Posmyk, M. Dusza, W. Matusik, K. Gruber},
+title = {Heat treatment design for additively manufactured nickel superalloy via Bayesian optimization of ultimate tensile strength and energy consumption},
+journal = {Virtual and Physical Prototyping},
+year = {2026},
+publisher = {Taylor \& Francis},
+doi = {https://doi.org/10.1080/17452759.2026.2686064},
 }
+
 ```
 ---
 
