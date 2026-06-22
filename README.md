@@ -184,6 +184,9 @@ author = {E. Katary, K. Sekuła, D. Krok, M. Posmyk, M. Dusza, W. Matusik, K. Gr
 title = {Heat treatment design for additively manufactured nickel superalloy via Bayesian optimization of ultimate tensile strength and energy consumption},
 journal = {Virtual and Physical Prototyping},
 year = {2026},
+volume = {21},
+number = {1},
+pages = {e2686064},
 publisher = {Taylor \& Francis},
 doi = {https://doi.org/10.1080/17452759.2026.2686064},
 }
